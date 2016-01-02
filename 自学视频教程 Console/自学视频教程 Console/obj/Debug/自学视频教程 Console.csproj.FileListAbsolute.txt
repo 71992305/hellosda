@@ -1,0 +1,6 @@
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\bin\Debug\自学视频教程 Console.exe.config
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\bin\Debug\自学视频教程 Console.exe
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\bin\Debug\自学视频教程 Console.pdb
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\obj\Debug\自学视频教程 Console.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\obj\Debug\自学视频教程 Console.exe
+E:\Visual Studio 2008Projects\自学视频教程 Console\自学视频教程 Console\obj\Debug\自学视频教程 Console.pdb

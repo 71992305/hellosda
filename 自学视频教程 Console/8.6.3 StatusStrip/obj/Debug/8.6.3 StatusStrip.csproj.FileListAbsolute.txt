@@ -1,0 +1,7 @@
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\bin\Debug\8.6.3 StatusStrip.exe
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\bin\Debug\8.6.3 StatusStrip.pdb
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\obj\Debug\_8._6._3_StatusStrip.Form1.resources
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\obj\Debug\_8._6._3_StatusStrip.Properties.Resources.resources
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\obj\Debug\8.6.3 StatusStrip.csproj.GenerateResource.Cache
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\obj\Debug\8.6.3 StatusStrip.exe
+E:\Visual Studio 2008Projects\自学视频教程 Console\8.6.3 StatusStrip\obj\Debug\8.6.3 StatusStrip.pdb
